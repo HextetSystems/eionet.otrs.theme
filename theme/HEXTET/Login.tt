@@ -59,7 +59,7 @@ X-OTRS-Login: [% Env("Baselink") %]
 <body class="[% Data.BodyClass | html %] LoginScreen">
 	<div id="toolribbon">
 		<div id="lefttools">
-			<a href="http://eionet.europa.eu/" id="eealink">Eionet</a>
+			<a href="https://hextet.systems/" id="eealink">Hextet Systems</a>
 		</div>
         <div id="righttools">
 			<div id="UserInfo">
@@ -85,8 +85,8 @@ X-OTRS-Login: [% Env("Baselink") %]
 		</div>
     </div>	
     <div id="Header" class="ARIARoleBanner">
-        <h1>Eionet</h1>
-		<div id="subheader">OTRS helpdesk system</div>
+        <h1>Hextet Systems</h1>
+		<div id="subheader">support system</div>
         <div id="Logo"></div>
     </div>
 

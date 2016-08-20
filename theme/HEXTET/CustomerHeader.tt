@@ -15,7 +15,7 @@
 <body class="NoJavaScript [% Data.BodyClass | html %]">
     <div id="toolribbon">
 		<div id="lefttools">
-			<a href="http://eionet.europa.eu/" id="eealink">Eionet</a>
+			<a href="https://hextet.systems/" id="eealink">Hextet Systems</a>
 		</div>
 		<div id="righttools">
 		</div>
@@ -25,8 +25,8 @@
 <!-- start CI layout -->
     <div id="Header">
         <!-- <h1 class="CompanyName">[% Config("CustomerHeadline") %]</h1> -->
-		<h1>Eionet</h1>
-		<div id="subheader">OTRS helpdesk system</div>
+		<h1>Hextet Systems</h1>
+		<div id="subheader">support system</div>
 <!-- dtl_block:HeaderLogo -->
         <div id="Logo"></div>
 <!-- dtl_block:HeaderLogo -->
